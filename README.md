@@ -50,7 +50,13 @@ clearlog
 
 O diagrama apresenta a comunicação entre sensores, display OLED, botões e saídas de controle do sistema embarcado.
 
-![alt text](<Diagrama de bloco.png>)
+# Diagrama de Blocos
+
+![Diagrama](imagens/diagrama_blocos.png)
+
+# Fotos do Projeto
+
+![Projeto](imagens/projeto.jpg)
 
 ---
 # Estrutura do Projeto
