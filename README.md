@@ -54,6 +54,11 @@ O diagrama apresenta a comunicação entre sensores, display OLED, botões e sa�
 
 ![Diagrama](imagens/diagrama_blocos.png)
 
+# Diagrama de Montagem
+
+![Diagrama](imagens/diagrama_montagem.png)
+
+
 # Fotos do Projeto
 
 ![Projeto](imagens/projeto.png)
