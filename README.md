@@ -56,7 +56,7 @@ O diagrama apresenta a comunicação entre sensores, display OLED, botões e sa�
 
 # Fotos do Projeto
 
-![Projeto](imagens/projeto.jpg)
+![Projeto](imagens/projeto.png)
 
 ---
 # Estrutura do Projeto
