@@ -46,6 +46,13 @@ clearlog
 
 ---
 
+# Diagrama de Blocos
+
+O diagrama apresenta a comunicação entre sensores, display OLED, botões e saídas de controle do sistema embarcado.
+
+![alt text](<Diagrama de bloco.png>)
+
+---
 # Estrutura do Projeto
 
 ```text
