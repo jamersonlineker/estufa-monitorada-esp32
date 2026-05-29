@@ -1,0 +1,27 @@
+menu "Estufa Config"
+
+config TEMP_MAX_DEFAULT
+    int "Temperatura maxima padrao"
+    default 35
+
+config UMID_MIN_DEFAULT
+    int "Umidade minima padrao"
+    default 40
+
+config LUZ_MIN_DEFAULT
+    int "Luminosidade minima padrao"
+    default 300
+
+config DHT_GPIO
+    int "GPIO do DHT11"
+    default 33
+
+config LDR_GPIO
+    int "GPIO do LDR"
+    default 32
+
+config LOG_ENABLE_DEFAULT
+    bool "Habilitar logs por padrao"
+    default y
+
+endmenu
